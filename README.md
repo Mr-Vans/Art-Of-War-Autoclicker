@@ -1,6 +1,8 @@
 # Art of War: Legions Autoclicker
 
-This is a click bot for Art of War: Legions to pass faster the boring levels. It's an early version and can stop working.
+This is a click bot for Art of War: Legions to pass faster the boring levels.<br />
+It's an early version and can stop working.<br />
+I dont take any responsibility for banned or broken accounts or other problems.
 
 ## ATTENTION: Your account can get banned, when you use an autoclicker
 

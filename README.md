@@ -10,6 +10,7 @@ I dont take any responsibility for banned / broken accounts or other problems.
 - Download [Bluestacks Android Emulator](https://www.bluestacks.com/) and install Art of War: Legions
 - Run the ArtOfWarAutoclicker.jar file, which is in the autoclicker folder
 - Run Art of War in Bluestacks
+- Connect your account with Art of War in Bluestacks
 - Navigate to Headhunt or to the Home section.
 - Click "Start" on the Autoclicker
 

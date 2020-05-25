@@ -1,6 +1,6 @@
 /**
  *
- * @author Mr Vans
+ * @author Mr-Vans
  */
 
 public class Main {

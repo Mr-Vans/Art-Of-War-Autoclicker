@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Mr Vans
+ * @author Mr-Vans
  */
 
 public class Gui extends JFrame implements ActionListener {

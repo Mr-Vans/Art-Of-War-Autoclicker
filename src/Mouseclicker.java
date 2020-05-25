@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @author Mr Vans
+ * @author Mr-Vans
  */
 
 public class Mouseclicker extends Thread {
@@ -26,8 +26,8 @@ public class Mouseclicker extends Thread {
         x = -1;
         y = -1;
         try {
-            img_yellow = ImageIO.read(new File("src/images/yellow.png"));
-            img_ad = ImageIO.read(new File("src/images/ad.png"));
+            img_yellow = ImageIO.read( getClass().getResourceAsStream("/images/yellow.png"));
+            img_ad = ImageIO.read( getClass().getResourceAsStream("/images/ad.png"));
             bot = new Robot();
         } catch (AWTException | IOException ex) {
             Logger.getLogger(Mouseclicker.class.getName()).log(Level.SEVERE, null, ex);

@@ -2,7 +2,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author Mr Vans
+ * @author Mr-Vans
  */
 
 public class ImageScanner {
